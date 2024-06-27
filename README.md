@@ -38,4 +38,4 @@ Steve Jobs
 
 ## 🚀 Want More? 🤔
 
-DiY Advanced Track @ https://github.com/wadwc/advanced 
+DiY Advanced Track @ advanced.md 
