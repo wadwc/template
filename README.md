@@ -19,7 +19,7 @@
 ```
 like space needle to seattle
 x is to [Write the Name of Your City]
-y is to Vilnius
+y is to Berlin
 what is x & y?
 ```
 
