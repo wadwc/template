@@ -244,8 +244,10 @@ style G fill:#ffffff,stroke:#000000,color:#000000
 # Want more, follow for Free talks & workshops <a href="https://medium.sankhe.com" target="blank"><img align="center" src="https://github.com/megamanics/megamanics/assets/10250297/3ea6e22c-e673-4229-98cb-2fa61a9ebb6d" alt="megamanics" height="45" width="60" /></a> and  <a href="https://www.linkedin.com/in/ski-s" target="blank"><img align="center" src="https://github.com/megamanics/megamanics/assets/10250297/39f6fecb-83e7-4ce3-a5f2-6f2ecc038053" alt="megamanics" height="30" width="40" /></a> and future updates :point_right: [here](https://medium.sankhe.com)
 
 
-## Tools Used:
-- https://gh.io/aitools/warp
-- https://gh.io/aitools/heygen
+## [Would you trust an AI](https://github.com/orgs/wadwc/discussions/2)
+
+## [Whats your use case?](https://github.com/orgs/wadwc/discussions/4)
+
+## [Feedback](https://github.com/orgs/wadwc/discussions/3)
 
 
