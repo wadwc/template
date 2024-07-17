@@ -39,3 +39,9 @@ Steve Jobs
 ## 🚀 Want More? 🤔
 
 DiY Advanced Track @ [Advanced Track](advanced.md) 
+
+## [Would you trust an AI](https://github.com/orgs/wadwc/discussions/2)
+
+## [Whats your use case?](https://github.com/orgs/wadwc/discussions/4)
+
+## [Feedback](https://github.com/orgs/wadwc/discussions/3)
